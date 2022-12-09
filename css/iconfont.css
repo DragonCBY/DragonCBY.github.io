@@ -1,24 +1,26 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3812838 */
-  src: url('//at.alicdn.com/t/c/font_3812838_bkarnvf0h.woff2?t=1670588746255') format('woff2'),
-       url('//at.alicdn.com/t/c/font_3812838_bkarnvf0h.woff?t=1670588746255') format('woff'),
-       url('//at.alicdn.com/t/c/font_3812838_bkarnvf0h.ttf?t=1670588746255') format('truetype');
+  src: url('//at.alicdn.com/t/c/font_3812838_d449qcytgok.woff2?t=1670591146528') format('woff2'),
+       url('//at.alicdn.com/t/c/font_3812838_d449qcytgok.woff?t=1670591146528') format('woff'),
+       url('//at.alicdn.com/t/c/font_3812838_d449qcytgok.ttf?t=1670591146528') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 22px;
+  font-size: 20px;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 .icon-Email:before {
-  content: "\ea65";
+  content: "\e608";
+  font-size: 24px;
 }
 
 .icon-GitHub:before {
   content: "\ea0a";
+  font-size: 22px;
 }
 
 .icon-RoboMaster:before {
